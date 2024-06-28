@@ -9,6 +9,6 @@ User Accounts: Create and manage user accounts .
 Technologies Used
 Frontend: XMl
 Backend: Java
-Database: MongoDB
+Database: FireBase
 Authentication: FireBase Authentication
 Version Control: Git
