@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+    <string name="First_Slide">Choose Your Product</string>
+    <string name="Second_Slide">Fast Delivery</string>
+    <string name="Third_Slide">Good Service</string>
+    <string name="Description">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
